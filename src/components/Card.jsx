@@ -11,7 +11,7 @@ const Card = () => {
       />
       <img
         src="/image-product-desktop.jpg"
-        className="desktop:block mobile:hidden rounded-l-lg h-full w-1/2"
+        className="desktop:block hidden object-cover rounded-lg h-full w-1/2"
         alt="desktop-photo"
       />
       <div className="p-6">
